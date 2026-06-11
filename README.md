@@ -100,7 +100,7 @@ The system has been tested on the following UK construction sustainability topic
 
 ## Running the Notebook
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/github/yenlikgaisina-ux/construction-sustainability-agent/blob/main/notebook/construction_sustainability_agent.ipynb)
+1. Open the notebook in [Google Colab](https://colab.research.google.com/github/yenlikgaisina/construction-sustainability-agent/blob/main/notebook/construction_sustainability_agent.ipynb)
 2. Add your API keys in Colab Secrets (key icon in sidebar):
    - `GOOGLE_API_KEY` -- from [Google AI Studio](https://aistudio.google.com/)
    - `SERPER_API_KEY` -- from [serper.dev](https://serper.dev/) (free tier available)
